@@ -5,6 +5,7 @@ This project contains an analysis of the Fresh Beats music streaming platform da
 * **Genre Promotion for Emerging Artists:**  Improving the platform's content recommendation system, particularly for emerging artists, by focusing on genre-based recommendations tailored to user preferences and music trends.
 
 Data Source:  Fresh Beats platform data
+
 Technologies Used: Google Sheets 
 
 Key Insights/Findings (Optional):Pop genre peaked in 2021 and is on a downwards trend
