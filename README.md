@@ -16,3 +16,5 @@ Offer users a referral marketing option, so they can get a free trial of the pai
 
 Further analysis could include: We should increase our catalogue of tracks in electronic and hip hop music - solicit appropriate artists and offer them deals (time-limited free promotion).	
 Rock is the key genre for free users - we should experiment and research further to see how it can be leveraged to convert them to paid.	
+[Here] (https://docs.google.com/spreadsheets/d/1O3c8p_9dun8sBhDsaygsEYkSxoUQakSwq4FyPZC3nlE/edit?usp=sharing)
+
