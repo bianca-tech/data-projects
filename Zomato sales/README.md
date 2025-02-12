@@ -1,1 +1,6 @@
-description here
+This repository contains a Zomato restaurant sales analysis project featuring an interactive dashboard built using Tableau.  The dashboard provides insights into:
+Monthly Sales Trends: Visualizing sales performance over time to identify peak seasons and growth opportunities.
+Top Performing Cities: Identifying key revenue-generating locations and understanding regional performance.
+Popular Cuisines: Analyzing the best-selling food categories to inform menu planning and marketing efforts.
+Key Metrics: Displaying total revenue, sales quantity, and average sales amount.
+The project aims to provide actionable insights for Zomato restaurants to optimize their operations and increase revenue.  
