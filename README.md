@@ -9,7 +9,9 @@ Data Source:  Fresh Beats platform data
 Technologies Used: Google Sheets 
 
 Key Insights/Findings (Optional):Pop genre peaked in 2021 and is on a downwards trend
-Paid users are more active (listen to more music) than free., Recommendation:Consider intermediate tiers between free and paid, to make it easier to convert users from free to paid.
+Paid users are more active (listen to more music) than free.,
+
+Recommendation:Consider intermediate tiers between free and paid, to make it easier to convert users from free to paid.
 Offer users a referral marketing option, so they can get a free trial of the paid tier by referring new users. 
 
 Further analysis could include: We should increase our catalogue of tracks in electronic and hip hop music - solicit appropriate artists and offer them deals (time-limited free promotion).	
