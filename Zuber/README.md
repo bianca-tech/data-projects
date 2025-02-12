@@ -1,12 +1,18 @@
-The name of the project
-A concise, one-line description that explains its purpose
-A link to the live webpage or GitHub
-A link to the repositories with your project’s code on GitHub
-3-5 bullet points on the project that answer the following questions: What did you build and why? What problem did it solve?
-What technologies did you use? How many weeks/months did it take to complete? 
-How many people took part in the project and what was your contribution?
-Optional but highly recommended: A demo video of the different features of the site.
-It should showcase what your code actually does and prove that it’s functional. 
-Try to make a video that showcases what the user will see in real time and give it a max length of 3-4 minutes. 
-Ideally, you should also create a voiceover for the demo. More on recording a project demo here.
+This repository contains analyzed Chicago taxi ride data designed to inform Zuber's launch strategy.  The project explores passenger preferences, competitor dynamics, and the influence of external factors like weather on ride patterns.
+
+Key areas of investigation:
+
+* **Passenger Preferences:**  Analysis of trip data to understand popular pickup and dropoff locations, trip durations, and distances.
+* **Competitor Analysis:** Examination of cab data to understand the competitive landscape, including the number of vehicles operated by different companies.
+* **Weather Impact:** Correlation analysis between weather conditions and ride frequency to understand how weather affects demand.
+
+Data Source: The Zuber database, containing the following tables:
+
+* `neighborhoods`: Information on Chicago neighborhoods.
+* `cabs`: Data on taxis operating in the city.
+* `trips`: Details of individual taxi rides.
+* `weather_records`: Hourly weather data.
+
+Technologies Used: SQL
+
 [HERE](https://docs.google.com/document/d/1zvijdBuAR5RXnlwOy8w0iqOfxYAtaVhXMut6__AglRQ/edit?usp=sharing)
