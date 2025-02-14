@@ -1,0 +1,19 @@
+This project contains an analysis of the Fresh Beats music streaming platform data, aimed at optimizing business performance and user experience.  Fresh Beats generates revenue through artist promotion services, making it crucial to maximize the effectiveness of these promotions. This project addresses the following key challenges:
+
+* **Artist Promotion Effectiveness:**  Evaluating current promotion strategies to ensure maximum exposure and ROI for artists. Identifying factors that contribute to successful campaigns.
+* **User Engagement and Conversion:**  Analyzing user behavior to enhance engagement and drive conversion from free to paid subscribers. Understanding user retention drivers.
+* **Genre Promotion for Emerging Artists:**  Improving the platform's content recommendation system, particularly for emerging artists, by focusing on genre-based recommendations tailored to user preferences and music trends.
+
+Data Source:  Fresh Beats platform data
+
+Technologies Used: Google Sheets 
+
+Key Insights/Findings (Optional):Pop genre peaked in 2021 and is on a downwards trend
+Paid users are more active (listen to more music) than free.,
+
+Recommendation:Consider intermediate tiers between free and paid, to make it easier to convert users from free to paid.
+Offer users a referral marketing option, so they can get a free trial of the paid tier by referring new users. 
+
+Further analysis could include: We should increase our catalogue of tracks in electronic and hip hop music - solicit appropriate artists and offer them deals (time-limited free promotion).	
+Rock is the key genre for free users - we should experiment and research further to see how it can be leveraged to convert them to paid.	
+[Here] (https://docs.google.com/spreadsheets/d/1O3c8p_9dun8sBhDsaygsEYkSxoUQakSwq4FyPZC3nlE/edit?usp=sharing)
