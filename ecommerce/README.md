@@ -1,4 +1,4 @@
-# ECOMMERCE
+# ECOMMERCE Project
 
 ## This project analyzed user activity logs to optimize the e-commerce conversion funnel and improve customer retention.
 
