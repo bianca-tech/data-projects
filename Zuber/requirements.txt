@@ -1,0 +1,7 @@
+This project analyzes Chicago taxi ride data for Zuber, a new ride-sharing company, to identify patterns in passenger preferences and the impact of external factors. 
+
+Using a provided database, the analysis explores ride frequency by taxi company, specifically focusing on Yellow and Blue companies and the top two companies (Flash Cab and Taxi Affiliation Services).
+
+Furthermore, the project investigates the correlation between weather conditions (rain/storm) and ride duration for trips between the Loop and O'Hare International Airport on Saturdays.
+
+The analysis leverages SQL queries to extract and aggregate data from the trips, cabs, neighborhoods, and weather_records tables, providing insights into operational strategies and potential market opportunities for Zuber.
