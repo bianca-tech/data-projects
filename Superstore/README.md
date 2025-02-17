@@ -4,7 +4,7 @@ The project pinpoints top profit/loss drivers, recommends products and subcatego
 
 Return rate analysis identifies problematic products and customers, exploring the relationship between returns and profitability. 
 
-Visualizations are used throughout to justify conclusions and support data-driven recommendations for the Superstore to avoid bankruptcy. 
+Visualizations via Tableau are used throughout to justify conclusions and support data-driven recommendations for the Superstore to avoid bankruptcy. 
 
 My contribution to this dashboard includes the creation of the "Avg. Profit vs. Avg. Return" scatter plot. 
 This visualization allows for a direct comparison of average profit and average return rates for each shipping mode (First Class, Same Day, Second Class, and Standard Class).
