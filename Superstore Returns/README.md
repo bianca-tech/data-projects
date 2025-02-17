@@ -1,4 +1,4 @@
-# SUPERSTORE RETURNS  
+# SUPERSTORE RETURNS Project
 
 ## This project analyzes Superstore's customer returns to understand contributing factors and develop strategies for reduction.
 
