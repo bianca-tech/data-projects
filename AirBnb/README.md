@@ -17,5 +17,5 @@ This data-driven approach allows for targeted investment strategies to maximize 
 
 
 
-PARAGRAPH HERE
+
 
