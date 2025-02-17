@@ -1,0 +1,9 @@
+The Superstore project simulates a consulting engagement to revitalize the Superstore's declining profitability.
+
+Using data analysis and visualization, the project identifies key profit and loss centers, recommending specific products to discontinue and subcategories to prioritize.
+
+Furthermore, it evaluates the potential of advertising by pinpointing optimal state/month combinations and suggesting advertising budget strategies based on return on ad spend.
+
+Finally, the analysis examines returned items, identifying products and customers with high return rates and exploring the relationship between profitability and return rates to inform strategic business decisions. 
+
+The project delivers actionable insights to help the Superstore avoid bankruptcy and maximize profitability.
