@@ -1,0 +1,29 @@
+# Part 2. Rules & Criteria Data Analysis
+
+## Part 1: EDA
+
+In this stage of the project, you should decide with your team what aspect of the dataset you’d like to explore and display.
+
+You should choose one of the datasets and conduct EDA on it. Some of the datasets will require different methods of preprocessing. Keep in mind that you may need to:
+
+- Join tables
+- Remove or fill in missing values
+- Regroup data in order to focus on particular elements
+- Create new columns for analyzing the data
+
+## Part 2: Visualisation
+
+After exploring the data, you need to decide on different ways to visualize the data. Each of your visualizations should be unique. 
+
+## Part 3: Reporting Results - Presentation
+
+While visualizations are very useful for pointing out important features of a dataset, they are not sufficient for a full data analysis. The last stage of your work must be creating a presentation with the results. 
+
+You must include:
+
+- An introduction to the dataset
+    - What data do you have?
+    - What did you do?
+    - What are your major findings, briefly?
+- Explanations of visualization, explaining, giving broader context, and drawing conclusions
+- A conclusion, indicating what further explorations might be made into the dataset
