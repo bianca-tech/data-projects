@@ -15,4 +15,10 @@ Personality classification Type Dataset (https://www.kaggle.com/datasets/sharifu
 This dataset contains personality classification data based on various traits and behavioral patterns. It can be used to analyze personality types, predict traits using machine learning, and explore psychological profiling.  
 PersonalityType Data Set https://www.notion.so/Datasets-1a8b66b20ae5818ca7f1c4c371b20303?pvs=4#1a8b66b20ae5818ca970f340510f8242
 
-Links to the descriptions and summaries from each team member 
+Links to the descriptions and summaries from each team member (please view pdf for Amber Grice summary)  
+https://docs.google.com/document/d/106Xs_zmBrgpHw1VB4wlalenSJ8YUelCY4KOQy-LcPFQ/edit?usp=sharing
+Tableau workbooks from each team member:  
+Bianca Weeden 
+Amber Grice  https://public.tableau.com/views/PersonalitySurvey/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link  
+Dominique Williams https://public.tableau.com/app/profile/dominique.williams4474/viz/Myers-Briggs_17410388843090/Agreeableness?publish=yes  
+powerpoint presentation: https://1drv.ms/p/c/40201ea52ef1e94e/EdnUq92cGUZCiBmv32_fbYkB1pY7uCwg0Hc3c2-tb-0Mfg?e=p8WVKg
