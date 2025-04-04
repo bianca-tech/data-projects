@@ -1,5 +1,6 @@
 ## SHOPIFY PROJECT
-## This project analyzes app store data to understand user preferences and inform app development strategy. THIS PROJECT ANALYZES APP STORE DATA TO UNDERSTAND USER PREFERENCES AND INFORM APP DEVELOPMENT STRATEGY. 
+## This project analyzes app store data to understand user preferences and inform app development strategy. THIS PROJECT ANALYZES APP STORE DATA TO UNDERSTAND USER PREFERENCES AND INFORM APP DEVELOPMENT STRATEGY.   
+Pdf version can be found [Here](https://drive.google.com/file/d/1LnGZCzL64krKxNqeLaNYqETHt6YXo46p/view?usp=sharing)  
 
 Identified a correlation between review count and average rating, demonstrating that apps with more reviews tend to have higher average ratings.
 
