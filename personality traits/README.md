@@ -22,3 +22,5 @@ Bianca Weeden https://public.tableau.com/views/personalitytraitstest/Story1?:lan
 Amber Grice  https://public.tableau.com/views/PersonalitySurvey/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link  
 Dominique Williams https://public.tableau.com/app/profile/dominique.williams4474/viz/Myers-Briggs_17410388843090/Agreeableness?publish=yes  
 powerpoint presentation: https://1drv.ms/p/c/40201ea52ef1e94e/EdnUq92cGUZCiBmv32_fbYkB1pY7uCwg0Hc3c2-tb-0Mfg?e=p8WVKg
+
+Summary of Personality Survey  [HERE]  (https://drive.google.com/file/d/1z2z_VibsxySjruUSJypW2DTHKcWjn6YA/view?usp=sharing)  
