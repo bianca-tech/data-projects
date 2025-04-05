@@ -17,4 +17,4 @@ This was a solo project
 Conclusion: The analysis revealed a 29.04% conversion rate from viewing a product to adding it to the cart, and a 35.61% conversion rate from adding to cart to purchase (overall 10.3% view to purchase). Retention rates decreased over time across all cohorts, indicating a need for strategies to improve customer loyalty.
 
 Recommendations:  Investigate the significant drop-off between adding to cart and purchase.  Implement strategies to improve customer retention, such as targeted marketing campaigns or loyalty programs. Further analysis could explore correlations between product categories, brands, and user behavior.
-[HERE](https://docs.google.com/spreadsheets/d/1eHNooRSUs2ZaSpqvIIHFxkkKCH7w5SsPk8IwfDuWT9M/edit?usp=sharing)
+[HERE]  (https://docs.google.com/spreadsheets/d/1eHNooRSUs2ZaSpqvIIHFxkkKCH7w5SsPk8IwfDuWT9M/edit?usp=sharing)  
