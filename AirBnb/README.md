@@ -13,7 +13,8 @@ Recommendations include focusing on 1-bedroom properties in Harlem, exploring 2-
 
 In conclusion, the Manhattan vacation rental market presents lucrative opportunities, especially for smaller property types in the identified neighborhoods.  By strategically aligning property offerings and pricing with market demand, investors can maximize their returns. 
 
-This data-driven approach allows for targeted investment strategies to maximize returns in the competitive Manhattan vacation rental market. (This project was completed individually for 2 weeks.)[HERE] (https://docs.google.com/spreadsheets/d/1_JMMTfZ4AMZ2ExFg_c-kAYxXZOkgpqBtdeep1FlHsK8/edit?usp=sharing)
+This data-driven approach allows for targeted investment strategies to maximize returns in the competitive Manhattan vacation rental market. (This project was completed individually for 2 weeks.)  [HERE]   (https://docs.google.com/spreadsheets/d/1_JMMTfZ4AMZ2ExFg_c-kAYxXZOkgpqBtdeep1FlHsK8/edit?usp=sharing)  
+
 
 
 
