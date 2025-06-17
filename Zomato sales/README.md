@@ -10,7 +10,7 @@ The project addressed the need to understand Zomato's sales patterns, identify t
 
 The dashboard was created using Tableau.
 
-The following project took 2 1/2 weeks to complete
+The following project took 1 week to complete
 
 My team lead checked my solo project for compliance with the criteria to complete a report and the onboarding process. My contribution was to create a dashboard based on findings from working with data in the format of a report. Also, I analyzed the business performance in sales.
 
