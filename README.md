@@ -11,7 +11,7 @@ Portfolio of completed projects I worked on while attending the Business Intelli
 | 7 | [Zuber](https://github.com/bianca-tech/data-projects/tree/main/Zuber) | Tested hypotheses using competitor data and database analysis for Zuber's. |
 | 8 | [E-commerce](https://github.com/bianca-tech/data-projects/tree/main/ecommerce) | Developed advanced spreadsheets for cohort analysis and conversion funnels to analyze raw transaction logs and improve user understanding for an e-commerce company. |
 | 9 | [PersonalityTraits](https://github.com/bianca-tech/data-projects/tree/main/personality%20traits) | Team analyzed personality classification data based on various traits and behavioral patterns visualized in tableau. |
+| 10| [Disney+](PROJECT DIRECTORY LINK) | Analyzed showcasing trends to reveal patterns in Disney+ title release, genre distribution, top directors   and average IMDB scores. |
 | 10| [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-
 
 
