@@ -1,0 +1,20 @@
+Disney+ Analysis:Project Description
+
+This project analyzes the Disney+ content catalog using Power BI to uncover patterns in genres, directors, 
+and audience focus. The dataset includes titles, release years, ratings, and genres, which were transformed 
+and visualized into an interactive dashboard. Key features of the report:
+
+Genre Distribution: Which categories dominate the Disney+ library.
+
+Release Trends: How content production has shifted over time.
+
+Director Insights: Top creators contributing the most to the platform.
+
+Kid vs. General Content Flag: A custom DAX calculation to segment child-focused content from general audience content.
+
+Conclusion: This analysis confirms that Disney+ strategically prioritizes
+family-friendly programming while gradually expanding into broader
+categories, positioning itself as both nostalgic (classic Disney/Pixar) and 
+competitive in today’s streaming market.
+Tools Used:Power BI  
+Pdf version can be found  [HERE](https://docs.google.com/document/d/1vq__S7V1bKSYE0dHWdpTOSsdHSWqiEFmMMLp05HLFUs/edit?usp=sharing)
